@@ -1,2 +1,2 @@
 1.0.1
-https://github.com/axibaye/sealApks/blob/master/seal.apk?raw=true
+http://154.9.206.41/downloadSeal
