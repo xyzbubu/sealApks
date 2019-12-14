@@ -1,1 +1,2 @@
-1.0.0
+1.0.1
+https://github.com/axibaye/sealApks/blob/master/seal.apk?raw=true
